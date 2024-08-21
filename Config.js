@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernomer = "2347067161378"
+global.ownername = "꧁༒☬𝓞𝔀𝓮𝓷 𝓖𝓪𝓫𝓻𝓲𝓮𝓵 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵☬༒꧂"
+global.ytname = "YT: Owen Gabriel"
+global.socialm = "GitHub: Owen-Gabriel"
+global.location = "Nigerian"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownernumber = '2347067161378'  //creator number
+global.ownername = 'Owen Gabriel' //owner name
+global.botname = '𝓞𝔀𝓮𝓷 𝓖𝓪𝓫𝓻𝓲𝓮𝓵 bot' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.stickername = '꧁༒☬𝓞𝔀𝓮𝓷 𝓖𝓪𝓫𝓻𝓲𝓮𝓵☬༒꧂'
+global.packname = 'Sticker By Owen Gabriel'
+global.author = '꧁༒☬𝓞𝔀𝓮𝓷 𝓖𝓪𝓫𝓻𝓲𝓮𝓵 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵☬༒꧂'
 //console view/theme
-global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.themeemoji = '💙'
+global.wm = "Owen Gabriel"
 
 //theme link
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
@@ -32,7 +32,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = true //auto block +92 
+global.anti92 = false //auto block +92 
 global.autoread_status = true //auto view status/story
 
 
